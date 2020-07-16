@@ -16,6 +16,6 @@ MY WRITTEN TEXT.<br/><br/>
 
 <p align="center">
 MY WRITTEN TEXT.<br/><br/>
-  <img width="720" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui3.gif?raw=true">
+  <img width="760" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui3.gif?raw=true">
   <br/><br/><br/>
 </p>
