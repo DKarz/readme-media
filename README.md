@@ -99,7 +99,7 @@ MY WRITTEN TEXT.<br/><br/>
 
 <p align="center">
 MY WRITTEN TEXT.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui14.gif?raw=true">
+  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui14-1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
@@ -151,16 +151,8 @@ MY WRITTEN TEXT.<br/><br/>
 
 <p align="center">
 MY WRITTEN TEXT.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui21.gif?raw=true" class=”cropimg”>
+  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui21-1.gif?raw=true" >
   <br/><br/><br/>
 </p>
-<style>
-  .cropimg {
 
-position: absolute;
-
-clip: rect(0px,50px,100px,50px);
-
-}
- </style>
 
