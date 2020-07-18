@@ -1,13 +1,13 @@
 # readme-media
 
-<p align="center">
+<p>
 As a proper application, the simulator has a login window which allows to sign up a profile or sign in an existing profile:<br/><br/></p>
 <p align="center">  <img width="450" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
+<p>
 As a user signs in, the following window appears.<br/><br/></p>
  <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui2.gif?raw=true">
   <br/><br/><br/>
@@ -30,7 +30,7 @@ As a user signs in, the following window appears.<br/><br/></p>
 </p>
 
 
-<p align="center">
+<p>
 If we tried to buy something for a very low price, our order would not be executed but would go to the system orders stack:<br/><br/></p>
   <p align="center"><img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui5.gif?raw=true">
   <br/><br/><br/>
