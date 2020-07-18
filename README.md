@@ -54,14 +54,16 @@ To sell something, we need to have something. Let us look at our assets by click
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+If there are enough assets, the user is able to make sell FoK order:<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui8.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+Let us open the config window. The first tab: delete-history button, color scheme button, the checkbox that allows to join the buy and sell graphs for products; a user can inform developers about bugs occurring in the program and send it to the server which will save them to the bug_log.txt file.
+The second tab consists of the user’s preferable products.
+<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui9.gif?raw=true">
   <br/><br/><br/>
 </p>
@@ -69,7 +71,7 @@ MY WRITTEN TEXT.<br/><br/>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+Preferable products are the products the user wants to see in the Combobox, in the config he/she can add new products and delete old ones. <br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui10.gif?raw=true">
   <br/><br/><br/>
 </p>
