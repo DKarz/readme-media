@@ -103,7 +103,7 @@ If we want to delete a product from the Combobox we can do it in the config.<br/
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+DELETE HISTORY button clears orders in the Orders’ history stack as well orders stored by the server.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui13.gif?raw=true">
   <br/><br/><br/>
 </p>
@@ -111,14 +111,14 @@ MY WRITTEN TEXT.<br/><br/>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+The developers can be informant about the bugs. The message sent from config to the server will be stored in the special file. Apart from the user’s message the server receives other information. It allows us to track the last actions of the user and find out what could cause the issues.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui14-1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+The graphs have a slider that narrows down the period of the observation. The leftist position shows the price dynamics throughout the whole period of observation. <br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui15.gif?raw=true">
   <br/><br/><br/>
 </p>
@@ -126,14 +126,14 @@ MY WRITTEN TEXT.<br/><br/>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+If you hover over at a point on the plots, the point’s precise coordinate will be shown.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui16.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+Sometimes, it so happens that it difficult to compare the price fluctuations using two separate graphs, hence, to make the graphs’ information more readable, a user can join the buy and sell graphs. As a bonus, we have bar charts of the data distribution (Best_Ask/2 + Best_Bid/2) for the last 24 hours of observation.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui17.gif?raw=true">
   <br/><br/><br/>
 </p>
@@ -141,7 +141,7 @@ MY WRITTEN TEXT.<br/><br/>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+Studying the analogues made us notice that modern graphical interfaces have dark mode feature. To be up-to-date we have added such a feature, so the color scheme of the GUI can be changed to the dark one in the config.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui18.gif?raw=true">
   <br/><br/><br/>
 </p>
