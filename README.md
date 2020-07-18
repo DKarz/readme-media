@@ -37,15 +37,16 @@ If we tried to buy something for a very low price, our order would not be execut
 
 
 
+<p>
+We are able to cancel our order if we click on the order. After confirming that we, indeed want to cancel the order, it vanishes from the system. Remark, when a user has created the order, the price was subtracted from the user’s balance. If an order is canceled, the money is returned.<br/><br/></p>
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui6.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+To sell something, we need to have something. Let us look at our assets by clicking the username or the upper bar – the assets window opens that contains the relevant information about the user's assets.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui7.gif?raw=true">
   <br/><br/><br/>
 </p>
