@@ -1,21 +1,21 @@
 # readme-media
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+As a proper application, the simulator has a login window which allows to sign up a profile or sign in an existing profile:<br/><br/>
   <img width="450" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+As a user signs in, the following window appears.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui2.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+The main window has many interactive widgets that update every 3 seconds showing relevant market information. If we look at the left top corner, four buttons can be seen — the first two are BUY and SELL buttons that open corresponding dialog windows; CONFIGURING opens the settings window where the user can config the filters. The last element is the row is product Combobox – if a product is chosen in the Combobox all the data at the main window will switch to the relevant data corresponding to the product. Under the row, there is a graph area that contains the price dynamics for buy and sell orders respectively. If we look at the middle of the main window, we can see two stacks that are called “Available Bids” and “Available Asks”. Two remarks about the stacks: firstly, the orders in the stacks are merged with respect to the price i.e. if two orders have the same cost, they will be combined with the summed up amount. The second remark is that the orders in the stacks are sorted, this means that there is the best order in the market on the top of each stack. If we move to the right, we see two separate stacks that are the user order’s stack (for user’s orders that are currently in the system) and history stack (for orders that were executed). The upper bar contains essential to user information such as the time, the date, user’s name, and the balance.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui3.gif?raw=true">
   <br/><br/><br/>
 </p>
