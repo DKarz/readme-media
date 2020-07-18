@@ -46,41 +46,41 @@ We are able to cancel our order if we click on the order. After confirming that 
 </p>
 
 
-<p align="center">
-To sell something, we need to have something. Let us look at our assets by clicking the username or the upper bar – the assets window opens that contains the relevant information about the user's assets.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui7.gif?raw=true">
+<p>
+To sell something, we need to have something. Let us look at our assets by clicking the username or the upper bar – the assets window opens that contains the relevant information about the user's assets.<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui7.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 
-<p align="center">
-If there are enough assets, the user is able to make sell FoK order:<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui8.gif?raw=true">
+<p>
+If there are enough assets, the user is able to make sell FoK order:<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui8.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
+<p>
 Let us open the config window. The first tab: delete-history button, color scheme button, the checkbox that allows to join the buy and sell graphs for products; a user can inform developers about bugs occurring in the program and send it to the server which will save them to the bug_log.txt file.
 The second tab consists of the user’s preferable products.
-<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui9.gif?raw=true">
+<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui9.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 
-<p align="center">
-Preferable products are the products the user wants to see in the Combobox, in the config he/she can add new products and delete old ones. <br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui10.gif?raw=true">
+<p>
+Preferable products are the products the user wants to see in the Combobox, in the config he/she can add new products and delete old ones. <br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui10.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
-Apart from switching between products using Combobox, we can use shortcuts on the keyboard (1 for the first product, 2 for the second, etc.). Note that all the windows in the GUI have their shortcuts either. <br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui11.gif?raw=true">
+<p >
+Apart from switching between products using Combobox, we can use shortcuts on the keyboard (1 for the first product, 2 for the second, etc.). Note that all the windows in the GUI have their shortcuts either. <br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui11.gif?raw=true">
   <br/><br/><br/>
 </p>
 The shortcuts:
@@ -96,72 +96,72 @@ A|	User assets window will be opened
 
 
 
-<p align="center">
-If we want to delete a product from the Combobox we can do it in the config.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui12.gif?raw=true">
+<p>
+If we want to delete a product from the Combobox we can do it in the config.<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui12.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
-DELETE HISTORY button clears orders in the Orders’ history stack as well orders stored by the server.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui13.gif?raw=true">
-  <br/><br/><br/>
-</p>
-
-
-
-<p align="center">
-The developers can be informant about the bugs. The message sent from config to the server will be stored in the special file. Apart from the user’s message the server receives other information. It allows us to track the last actions of the user and find out what could cause the issues.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui14-1.gif?raw=true">
-  <br/><br/><br/>
-</p>
-
-
-<p align="center">
-The graphs have a slider that narrows down the period of the observation. The leftist position shows the price dynamics throughout the whole period of observation. <br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui16.gif?raw=true">
+<p>
+DELETE HISTORY button clears orders in the Orders’ history stack as well orders stored by the server.<br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui13.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 
-<p align="center">
-If you hover over at a point on the plots, the point’s precise coordinate will be shown.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui17.gif?raw=true">
+<p>
+The developers can be informant about the bugs. The message sent from config to the server will be stored in the special file. Apart from the user’s message the server receives other information. It allows us to track the last actions of the user and find out what could cause the issues.<br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui14-1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
-Sometimes, it so happens that it difficult to compare the price fluctuations using two separate graphs, hence, to make the graphs’ information more readable, a user can join the buy and sell graphs. As a bonus, we have bar charts of the data distribution (Best_Ask/2 + Best_Bid/2) for the last 24 hours of observation.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui18.gif?raw=true">
+<p>
+The graphs have a slider that narrows down the period of the observation. The leftist position shows the price dynamics throughout the whole period of observation. <br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui16.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 
-<p align="center">
-Studying the analogues made us notice that modern graphical interfaces have dark mode feature. To be up-to-date we have added such a feature, so the color scheme of the GUI can be changed to the dark one in the config.<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui19.gif?raw=true">
+<p>
+If you hover over at a point on the plots, the point’s precise coordinate will be shown.<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui17.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
-<p align="center">
+<p>
+Sometimes, it so happens that it difficult to compare the price fluctuations using two separate graphs, hence, to make the graphs’ information more readable, a user can join the buy and sell graphs. As a bonus, we have bar charts of the data distribution (Best_Ask/2 + Best_Bid/2) for the last 24 hours of observation.<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui18.gif?raw=true">
+  <br/><br/><br/>
+</p>
+
+
+
+<p>
+Studying the analogues made us notice that modern graphical interfaces have dark mode feature. To be up-to-date we have added such a feature, so the color scheme of the GUI can be changed to the dark one in the config.<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui19.gif?raw=true">
+  <br/><br/><br/>
+</p>
+
+
+<p>
 Now, we are going to demonstrate two important scenarios.
 The first is GUI + GUI.
 If one GUI makes an order, it appears in the corresponding stack in the other GUI so it can interact with new orders. If one GUI cancels an order, it vanishes from the system, consequently in the other GUI.
-<br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui20.gif?raw=true">
+<br/><br/></p>
+ <p align="center"> <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui20.gif?raw=true">
   <br/><br/><br/>
 </p>
 
 
 
-<p align="center">
-The second scenario is GUI + Market Maker. As MM is launched, the GUI immediately represents the situation in the changing market. <br/><br/>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui21-1.gif?raw=true">
+<p>
+The second scenario is GUI + Market Maker. As MM is launched, the GUI immediately represents the situation in the changing market. <br/><br/></p>
+<p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui21-1.gif?raw=true">
   <br/><br/><br/>
 </p>
 
