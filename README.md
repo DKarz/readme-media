@@ -78,15 +78,25 @@ Preferable products are the products the user wants to see in the Combobox, in t
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+Apart from switching between products using Combobox, we can use shortcuts on the keyboard (1 for the first product, 2 for the second, etc.). Note that all the windows in the GUI have their shortcuts either. <br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui11.gif?raw=true">
   <br/><br/><br/>
 </p>
+The shortcuts:
+
+Button|	Action
+| ------ | ------ |
+B|	BUY order window will be opened
+S|	SELL order window will be opened
+C|	Configuring window will be opened
+A|	User assets window will be opened
+0|	Chooses “No filter” in the Combobox of preferable products
+1-10|	Chooses corresponding product in the Combobox
 
 
 
 <p align="center">
-MY WRITTEN TEXT.<br/><br/>
+If we want to delete a product from the Combobox we can do it in the config.<br/><br/>
   <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui12.gif?raw=true">
   <br/><br/><br/>
 </p>
