@@ -25,7 +25,7 @@ As a user signs in, the following window appears.<br/><br/></p>
 
 <p>
   Let us try to buy something – we open the BUY dialog window by clicking the BUY button. The window has an edit line where the user can type the product name, however, the edit line is autocompleted with the product chosen in the Combobox. Then the user chooses the order type (Limit or FOK), amount, and price per unit. Note that the price is already autocompleted with the best price in the market. The GUI says that it is success, so the order appears in the Order’s history stack.<br/><br/></p>
-  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui4.gif?raw=true">
+ <p align="center">  <img width="750" src="https://github.com/DKarz/media-lfs/blob/master/GUI/gui4.gif?raw=true">
   <br/><br/><br/>
 </p>
 
